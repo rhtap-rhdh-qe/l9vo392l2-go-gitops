@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l9vo392l2-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l9vo392l2-go
